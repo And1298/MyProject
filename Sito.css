@@ -1,0 +1,77 @@
+body {
+    width: 1000px;
+    margin: auto;
+    background-image: url("background.jpg");
+    height: auto;
+    background-color: rgba(248, 247, 216, 0.7);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#background{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1000px;
+    height: 1000px;
+    display: inline-block;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    background-position: center;
+    border-radius: 40px;
+}
+
+header {
+    margin-top: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    color: #00dd00;
+    position: relative;
+    bottom: 30px;
+}
+
+nav div {
+    text-align: center;
+    margin-bottom: 80px;
+    background-color: #00dd00;
+    padding: 10px;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+main div {
+    margin-left: 8%;
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.text-title {
+    font-size: 28px;
+}
+
+#stato-carica-Gino {
+    width: 350px;
+    height: 20px;
+    background-color: #f5b453;
+    border-radius: 5px;
+    margin-left: 8%;
+}
+
+#stato-carica-Mike {
+    width: 200px;
+    height: 20px;
+    background-color: #1ec31e;
+    border-radius: 5px;
+    margin-left: 8%;
+}
+
+#stato-carica-Fede {
+    width: 700px;
+    height: 20px;
+    background-color: #be4141;
+    border-radius: 5px;
+    margin-left: 8%;
+}
